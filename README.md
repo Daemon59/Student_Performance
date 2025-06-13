@@ -1,2 +1,4 @@
 # Student Performance APP
-## Simple Python app
+I created a simple student performance tracking app.
+
+
