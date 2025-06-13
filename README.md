@@ -1,1 +1,2 @@
-# Student_Performance
+# Student Performance APP
+## Simple Python app
